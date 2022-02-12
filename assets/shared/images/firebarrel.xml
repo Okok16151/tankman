@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="firebarrel.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="barrel10000" x="0" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10001" x="0" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10002" x="0" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10003" x="282" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10004" x="282" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10005" x="564" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10006" x="564" y="0" width="282" height="711"/>
+	<SubTexture name="barrel10007" x="564" y="0" width="282" height="711"/>
+</TextureAtlas>
