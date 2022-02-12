@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				309
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tankman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tankman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				420
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tankman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				280
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tankman right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				330
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tankman left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				33,
+				325
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "tankman ugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankmanremix",
+	"position": [
+		81,
+		299
+	],
+	"healthicon": "tankmanremix",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-138,
+		-210
+	],
+	"sing_duration": 8,
+	"scale": 0.9
+}

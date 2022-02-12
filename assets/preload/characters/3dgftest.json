@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "3dgftest danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-9
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "3dgftest danceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3dgftest",
+	"position": [
+		-220,
+		-200
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-60,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
