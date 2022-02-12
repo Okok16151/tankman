@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3Dgfbeta.png"><SubTexture name="3Dgfbeta danceLeft0000" x="0" y="0" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0001" x="974" y="0" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0002" x="1948" y="0" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0003" x="2922" y="0" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0004" x="0" y="954" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0005" x="974" y="954" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0006" x="1948" y="954" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0007" x="2922" y="954" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0008" x="0" y="1908" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceLeft0009" x="974" y="1908" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0000" x="1948" y="1908" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0001" x="2922" y="1908" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0002" x="0" y="2862" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0003" x="974" y="2862" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0004" x="1948" y="2862" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0005" x="2922" y="2862" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0006" x="0" y="3816" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0007" x="974" y="3816" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0008" x="1948" y="3816" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+<SubTexture name="3Dgfbeta danceRight0009" x="2922" y="3816" width="974" height="954" frameX="0" frameY="0" frameWidth="974" frameHeight="954" />
+</TextureAtlas>

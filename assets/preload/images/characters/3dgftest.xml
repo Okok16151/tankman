@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3dgftest.png"><SubTexture name="3dgftest danceLeft0000" x="0" y="0" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0001" x="1108" y="0" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0002" x="2216" y="0" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0003" x="3324" y="0" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0004" x="0" y="1009" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0005" x="1108" y="1009" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0006" x="2216" y="1009" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0007" x="3324" y="1009" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0008" x="0" y="2018" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceLeft0009" x="1108" y="2018" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0000" x="2216" y="2018" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0001" x="3324" y="2018" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0002" x="0" y="3027" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0003" x="1108" y="3027" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0004" x="2216" y="3027" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0005" x="3324" y="3027" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0006" x="0" y="4036" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0007" x="1108" y="4036" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0008" x="2216" y="4036" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+<SubTexture name="3dgftest danceRight0009" x="3324" y="4036" width="1108" height="1009" frameX="0" frameY="0" frameWidth="1108" frameHeight="1009" />
+</TextureAtlas>

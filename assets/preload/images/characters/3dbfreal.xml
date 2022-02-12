@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3dbfreal.png"><SubTexture name="3dbfreal idle0000" x="0" y="0" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0001" x="614" y="0" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0002" x="1228" y="0" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0003" x="1842" y="0" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0004" x="2456" y="0" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0005" x="0" y="870" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0006" x="614" y="870" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0007" x="1228" y="870" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0008" x="1842" y="870" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0009" x="2456" y="870" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0010" x="0" y="1740" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0011" x="614" y="1740" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0012" x="1228" y="1740" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0013" x="1842" y="1740" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal idle0014" x="2456" y="1740" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal up0000" x="0" y="2610" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal up0001" x="614" y="2610" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal up0002" x="1228" y="2610" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal up0003" x="1842" y="2610" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal down0000" x="2456" y="2610" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal down0001" x="0" y="3480" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal down0002" x="614" y="3480" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal down0003" x="1228" y="3480" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal left0000" x="1842" y="3480" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal left0001" x="2456" y="3480" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal left0002" x="0" y="4350" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal left0003" x="614" y="4350" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal right0000" x="1228" y="4350" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal right0001" x="1842" y="4350" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal right0002" x="2456" y="4350" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+<SubTexture name="3dbfreal right0003" x="0" y="5220" width="614" height="870" frameX="0" frameY="0" frameWidth="614" frameHeight="870" />
+</TextureAtlas>
