@@ -1,0 +1,40 @@
+{
+	"storyName": "m. tankman versus ryu bf",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tankmanremix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Tankman_Menu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"ugh",
+			"tankmanremix",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"guns",
+			"tankmanremix",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
